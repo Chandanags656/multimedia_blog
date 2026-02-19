@@ -1,0 +1,45 @@
+@import url("https://fonts.cdnfonts.com/css/samsung-sharp-sans");
+body{
+    background-color: black;
+    color: black;
+    font-family: "Samsung Sharp Sans", sans-serif;
+    font-weight: 900;
+}
+h1{
+    text-align: center;
+    background-color: #360185;
+    border-radius: 25px;
+    -webkit-text-stroke: 1px yellow;
+    letter-spacing: 2px;
+}
+h3,h2{
+    background-color: #1a49bf;
+    
+    width: 100%;
+    margin: 0px auto;
+    padding: 25px;
+    border-radius: 15px;
+    border-left: 5px solid rgb(234, 234, 90);
+    box-shadow: 10px 5px 30px yellow;
+}
+audio{
+    width: 100%;
+    box-shadow: 10px 5px 30px rgb(59, 242, 123);
+    border-radius: 25px;
+
+}
+hr{
+    width: 60%;
+    text-align: center;
+    border: 1px solid yellow;
+
+}
+p{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    box-shadow: 10px 5px 30px lavender;
+    letter-spacing: 2px;
+    border-left: 5px solid palevioletred;
+    
+}
